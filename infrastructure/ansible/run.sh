@@ -1,0 +1,1 @@
+(/usr/bin/time -v /home/ubuntu/secure-aggregation-monorepo/decoder/build/ch_decoder /home/ubuntu/secure-aggregation-monorepo/decoder/build/instance.json /home/ubuntu/secure-aggregation-monorepo/decoder/build/config.json) 2>&1 | tee /home/ubuntu/out.txt
